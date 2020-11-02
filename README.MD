@@ -4,12 +4,11 @@ Model-View-Controller (MVC) Challenge: Tech Blog
 ![licenses](https://img.shields.io/badge/License-MIT_License-blue.svg)
 
 ## Description
-Backend of an E-commerce store to better organize products.  Can view, create, update and delete for ultimate control over your inventory.
+A Tech Blog where you can create a username and make post to the community.  After logining in, you will see all the post you've made and see an option to make a new post.  On the homepage, you will see all the post from the community where you can make comments on and if needed, add new posts.  You can also edit or delete previous post incase of any errors.
 
 ## Table of Contents
 [Installation](#installation)<br>
 [Usage](#usage)<br>
-[Tests](#tests)<br>
 [License](#license)<br>
 [Questions](#questions)<br>
 ***
@@ -18,11 +17,12 @@ npm i express sequelize mysql2<br>
 npm install --save sequelize<br>
 npm i bcrypt<br>
 npm i dotenv<br>
+npm i connect-session-sequelize<br>
+npm i express-handlebars<br>
+npm i express-session<br>
+
 
 ## Usage
-
-
-## Tests
 ![](/assets/images/screenshot.jpg)
 
 ## License
@@ -51,4 +51,4 @@ SOFTWARE.
 For further questions on this project or future collaboration contact me at:<br>
 * GitHub: [terahje](https://github.com/terahje)
 * Email: terahjequinn@gmail.com
-* Repository link: https://github.com/terahje/E-store-ORM
+* Repository link: https://github.com/terahje/tech-blog-week14
