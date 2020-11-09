@@ -1,7 +1,7 @@
 # Tech Blog Week 14
 Model-View-Controller (MVC) Challenge: Tech Blog
 
-[Link to deployed link](https://the-tech-blog-80087.herokuapp.com)
+[Link to deployed App](https://the-tech-blog-80087.herokuapp.com)
 
 
 ![licenses](https://img.shields.io/badge/License-MIT_License-blue.svg)
